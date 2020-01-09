@@ -2,7 +2,7 @@
 
 ### Build JS SDK
 
-First, clone this project: `https://github.com/iot-block/iotchain`
+First, clone this project: [iotchain](https://github.com/iot-block/iotchain)
 
 ```
 $ sbt
