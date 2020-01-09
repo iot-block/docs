@@ -2,6 +2,8 @@
 
 ### Build JS SDK
 
+First, clone this project: `https://github.com/iot-block/iotchain`
+
 ```
 $ sbt
 > project sdkJS
